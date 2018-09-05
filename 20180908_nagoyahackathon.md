@@ -14,6 +14,7 @@
 |:--|:--|:--|:--|
 |<img src="https://statics3.seeedstudio.com/seeed/img/2016-06/SqOcKOIx7VWCSQYTBcR5pDyz.jpg" width="100">|[Wio Node](https://www.seeedstudio.com/Wio-Node-p-2637.html)|プログラミングレス, Wi-Fi通信|10個|
 |<img src="https://statics3.seeedstudio.com/images/product/102010026%201.jpg" width="100">|[Seeeduino](https://www.seeedstudio.com/Seeeduino-V4.2-p-2517.html)|Arduino IDE (C)|10個|
+|<img src="https://soracom.jp/img/products_wio_lte.png" width="100">|[Wio LTE JP Version](https://soracom.jp/products/wio_lte/)（LTE通信する場合は別途SIMが必要です）|Arduino IDE (C), LTE通信|3個|
 
 ### Groveモジュール
 
