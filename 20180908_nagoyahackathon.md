@@ -2,6 +2,10 @@
 
 ## Seeed株式会社
 
+### 技術支援
+
+* プロトタイプ制作の相談。（Seeed社員 1名（松岡））
+
 ### 部品貸出
 
 #### 開発ボード
@@ -46,7 +50,3 @@
 ||Grove - LED Socket Kit|LED点灯|
 |<img src="https://statics3.seeedstudio.com/seeed/img/2016-10/PO8B7QD0XnLNChGoGZiQ9G3d.jpg" width="100">|[Grove - Light Sensor](https://www.seeedstudio.com/Grove-Light-Sensor-v1.2-p-2727.html)|明るさ測定|
 |<img src="https://statics3.seeedstudio.com/images/product/bgpushb1.jpg" width="100">|[Grove - Button](https://www.seeedstudio.com/Grove-Button-p-766.html)|ボタン入力|
-
-### 技術支援
-
-* プロトタイプ制作の相談。（Seeed社員 1名（松岡））
