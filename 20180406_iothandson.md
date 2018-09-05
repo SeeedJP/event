@@ -1,29 +1,29 @@
-## ƒCƒxƒ“ƒgˆÄ“à
+## ã‚¤ãƒ™ãƒ³ãƒˆæ¡ˆå†…
 
-[IoTƒnƒ“ƒYƒIƒ“ƒgƒŒ[ƒjƒ“ƒO `‰‚ß‚Ìˆê•à ƒ‚ƒm‚ÌÚ‘±‚©‚çƒf[ƒ^•ªÍ‚Ü‚Å`](https://pages.soracom.jp/20180406_ms_seeed_handson_seminar.html)
+[IoTãƒãƒ³ã‚ºã‚ªãƒ³ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚° ï½åˆã‚ã®ä¸€æ­© ãƒ¢ãƒã®æ¥ç¶šã‹ã‚‰ãƒ‡ãƒ¼ã‚¿åˆ†æã¾ã§ï½](https://pages.soracom.jp/20180406_ms_seeed_handson_seminar.html)
 
-## ƒ^ƒCƒ€ƒXƒPƒWƒ…[ƒ‹
+## ã‚¿ã‚¤ãƒ ã‚¹ã‚±ã‚¸ãƒ¥ãƒ¼ãƒ«
 
 ```
-12:30 - ó•tŠJn
-13:00 - 14:00 ŠeĞ‚Ì‚²Ğ‰îi20•ª~3j
-14:00 - 14:15 ‹xŒe
-14:15 - 17:45 ƒnƒ“ƒYƒIƒ“i“r’†‹xŒe‚ ‚èj
-17:45 - 18:00 ‚¨•Ğ‚Ã‚¯
+12:30 - å—ä»˜é–‹å§‹
+13:00 - 14:00 å„ç¤¾ã®ã”ç´¹ä»‹ï¼ˆ20åˆ†Ã—3ï¼‰
+14:00 - 14:15 ä¼‘æ†©
+14:15 - 17:45 ãƒãƒ³ã‚ºã‚ªãƒ³ï¼ˆé€”ä¸­ä¼‘æ†©ã‚ã‚Šï¼‰
+17:45 - 18:00 ãŠç‰‡ã¥ã‘
 ```
 
-## ŠeĞ‚Ì‚²Ğ‰î
+## å„ç¤¾ã®ã”ç´¹ä»‹
 
-* [“ú–{ƒ}ƒCƒNƒƒ\ƒtƒgŠ”®‰ïĞ](http://aka.ms/msjiot20180406)
-* [SeeedŠ”®‰ïĞ](https://www.slideshare.net/SeeedJP/seeed-93148026)
-* [Š”®‰ïĞƒ\ƒ‰ƒRƒ€](https://sps.soracom.io/downloads/20180406_IoT_handson)
+* [æ—¥æœ¬ãƒã‚¤ã‚¯ãƒ­ã‚½ãƒ•ãƒˆæ ªå¼ä¼šç¤¾](http://aka.ms/msjiot20180406)
+* [Seeedæ ªå¼ä¼šç¤¾](https://www.slideshare.net/SeeedJP/seeed-93148026)
+* [æ ªå¼ä¼šç¤¾ã‚½ãƒ©ã‚³ãƒ ](https://sps.soracom.io/downloads/20180406_IoT_handson)
 
-## ƒnƒ“ƒYƒIƒ“
+## ãƒãƒ³ã‚ºã‚ªãƒ³
 
-* ŠT—v - IoT Kit ƒnƒ“ƒYƒIƒ“ƒgƒŒ[ƒjƒ“ƒO ` ƒCƒ“ƒgƒƒ_ƒNƒVƒ‡ƒ“ `
+* æ¦‚è¦ - IoT Kit ãƒãƒ³ã‚ºã‚ªãƒ³ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚° ï½ ã‚¤ãƒ³ãƒˆãƒ­ãƒ€ã‚¯ã‚·ãƒ§ãƒ³ ï½
   * [PowerPoint Online](https://1drv.ms/p/s!Ah8aAA-oOjWMlew7OuYobv2CFitjTw)
-* ƒfƒoƒCƒX - IoT Kit ƒnƒ“ƒYƒIƒ“ƒgƒŒ[ƒjƒ“ƒO ` Seeed Wio LTE + SORACOM Beam ` V4.1
+* ãƒ‡ãƒã‚¤ã‚¹ - IoT Kit ãƒãƒ³ã‚ºã‚ªãƒ³ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚° ï½ Seeed Wio LTE + SORACOM Beam ï½ V4.1
   * [SlideShare](https://www.slideshare.net/SeeedJP/iot-kit-seeed-wio-lte-soracom-beam-v41)
   * [PDF](http://bit.ly/2E6TFa)
-* ƒNƒ‰ƒEƒh - IoT Kit ƒnƒ“ƒYƒIƒ“ƒgƒŒ[ƒjƒ“ƒO ` Edge‚ÌŠJ”­/ŠÇ—Aƒf[ƒ^ˆ— `
+* ã‚¯ãƒ©ã‚¦ãƒ‰ - IoT Kit ãƒãƒ³ã‚ºã‚ªãƒ³ãƒˆãƒ¬ãƒ¼ãƒ‹ãƒ³ã‚° ï½ Edgeã®é–‹ç™º/ç®¡ç†ã€ãƒ‡ãƒ¼ã‚¿å‡¦ç† ï½
   * [PowerPoint Online](http://aka.ms/IoTKitHoL201803)
