@@ -27,7 +27,7 @@
 |<img src="https://statics3.seeedstudio.com/seeed/img/2016-09/RfiiaySPfAWrtPqmFhC1Co4u.jpg" width="100">|[Grove - OLED Display 0.96''](https://www.seeedstudio.com/Grove-OLED-Display-0.96%22-p-781.html)|グラフィック液晶表示|1個|
 |<img src="https://statics3.seeedstudio.com/images/101020054%201.jpg" width="100">|[Grove - 3-Axis Digital Accelerometer(±16g)](https://www.seeedstudio.com/Grove-3-Axis-Digital-Accelerometer%28%C2%B116g%29-p-1156.html)|加速度測定|1個|
 |<img src="https://statics3.seeedstudio.com/images/product/Grove%20Speaker.jpg" width="100">|[Grove - Speaker](https://www.seeedstudio.com/Grove-Speaker-p-1445.html)|音出力|2個|
-||Grove - WS2812 Waterproof LED Strip - 30 LEDs 1 meter|LEDテープ表示|2個|
+||Grove - WS2812 Waterproof LED Strip - 30 LEDs 1 meter|LEDテープ表示|10個|
 |<img src="https://statics3.seeedstudio.com/seeed/img/2016-08/5dxWtS1rxWLzukUaHBvGoIG9.jpg" width="100">|[Grove - Gesture](https://www.seeedstudio.com/Grove-Gesture%EF%BC%88PAJ7620U2%EF%BC%89-p-2463.html)|ジェスチャー入力|2個|
 |<img src="https://statics3.seeedstudio.com/images/product/4-Digital%20Display.jpg" width="100">|[Grove - 4-Digit Display](https://www.seeedstudio.com/Grove-4-Digit-Display-p-1198.html)|4桁数字表示|2個|
 |<img src="https://statics3.seeedstudio.com/images/product/105020010%202.jpg" width="100">|[Grove - I2C Mini Motor Driver](https://www.seeedstudio.com/Grove-I2C-Mini-Motor-Driver-p-2508.html)|DCモーター制御|2個|
